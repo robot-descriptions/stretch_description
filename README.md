@@ -1,5 +1,7 @@
 # Stretch RE1 mobile manipulator
 
+<img src="https://user-images.githubusercontent.com/1189580/231714918-761b62cc-cfa6-4443-9962-01579c34b51a.png" width=200 align="right">
+
 This package contains the robot description for the Stretch RE1 mobile manipulator from Hello Robot Inc.
 
 ## License
