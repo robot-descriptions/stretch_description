@@ -4,6 +4,10 @@
 
 This package contains the robot description for the Stretch RE1 mobile manipulator from Hello Robot Inc.
 
+## History
+
+The original Stretch RE1 description is published in Xacro under the CC BY-NC-SA 4.0 license in the [stretch\_ros](https://github.com/hello-robot/stretch_ros) repository. It was converted to URDF by [Arjun Gupta](https://github.com/arjung128).
+
 ## License
 
 This robot description is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike-4.0-International][cc-by-nc-sa] (CC BY-NC-SA 4.0).
